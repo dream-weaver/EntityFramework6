@@ -1,0 +1,20 @@
+C:\Users\User\AppData\Local\Temporary Projects\NinjaDomain.Classes\bin\Debug\NinjaDomain.Classes.dll
+C:\Users\User\AppData\Local\Temporary Projects\NinjaDomain.Classes\bin\Debug\NinjaDomain.Classes.pdb
+C:\Users\User\AppData\Local\Temporary Projects\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.csprojAssemblyReference.cache
+C:\Users\User\AppData\Local\Temporary Projects\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.csproj.CoreCompileInputs.cache
+C:\Users\User\AppData\Local\Temporary Projects\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.dll
+C:\Users\User\AppData\Local\Temporary Projects\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.pdb
+F:\SandBox\PathToEntityFramework\GettingStartedWithEntityFramework6\NinjaModuleDemo\NinjaDomain.Classes\bin\Debug\NinjaDomain.Classes.dll
+F:\SandBox\PathToEntityFramework\GettingStartedWithEntityFramework6\NinjaModuleDemo\NinjaDomain.Classes\bin\Debug\NinjaDomain.Classes.pdb
+F:\SandBox\PathToEntityFramework\GettingStartedWithEntityFramework6\NinjaModuleDemo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.csproj.CoreCompileInputs.cache
+F:\SandBox\PathToEntityFramework\GettingStartedWithEntityFramework6\NinjaModuleDemo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.dll
+F:\SandBox\PathToEntityFramework\GettingStartedWithEntityFramework6\NinjaModuleDemo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.pdb
+F:\SandBox\PathToEntityFramework\GettingStartedWithEntityFramework6\NinjaModuleDemo\NinjaDomain.Classes\bin\Debug\NinjaDomain.Services.dll
+F:\SandBox\PathToEntityFramework\GettingStartedWithEntityFramework6\NinjaModuleDemo\NinjaDomain.Classes\bin\Debug\NinjaDomain.Services.pdb
+F:\SandBox\PathToEntityFramework\GettingStartedWithEntityFramework6\NinjaModuleDemo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.csprojAssemblyReference.cache
+F:\SandBox\PathToEntityFramework\GettingStartedWithEntityFramework6\NinjaModuleDemo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.csproj.CopyComplete
+F:\SandBox\PathToEntityFramework\GettingStartedWithEntityFramework6\NinjaModuleDemo\NinjaDomain.Classes\bin\Debug\NinjaDomain.Classes.dll.config
+F:\SandBox\PathToEntityFramework\GettingStartedWithEntityFramework6\NinjaModuleDemo\NinjaDomain.Classes\bin\Debug\EntityFramework.dll
+F:\SandBox\PathToEntityFramework\GettingStartedWithEntityFramework6\NinjaModuleDemo\NinjaDomain.Classes\bin\Debug\EntityFramework.SqlServer.dll
+F:\SandBox\PathToEntityFramework\GettingStartedWithEntityFramework6\NinjaModuleDemo\NinjaDomain.Classes\bin\Debug\EntityFramework.xml
+F:\SandBox\PathToEntityFramework\GettingStartedWithEntityFramework6\NinjaModuleDemo\NinjaDomain.Classes\bin\Debug\EntityFramework.SqlServer.xml

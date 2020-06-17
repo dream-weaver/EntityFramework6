@@ -1,0 +1,6 @@
+F:\SandBox\PathToEntityFramework\GettingStartedWithEntityFramework6\NinjaModuleDemo\NinjaDomain.Services\bin\Debug\NinjaDomain.Services.dll
+F:\SandBox\PathToEntityFramework\GettingStartedWithEntityFramework6\NinjaModuleDemo\NinjaDomain.Services\bin\Debug\NinjaDomain.Services.pdb
+F:\SandBox\PathToEntityFramework\GettingStartedWithEntityFramework6\NinjaModuleDemo\NinjaDomain.Services\obj\Debug\NinjaDomain.Services.csproj.CoreCompileInputs.cache
+F:\SandBox\PathToEntityFramework\GettingStartedWithEntityFramework6\NinjaModuleDemo\NinjaDomain.Services\obj\Debug\NinjaDomain.Services.dll
+F:\SandBox\PathToEntityFramework\GettingStartedWithEntityFramework6\NinjaModuleDemo\NinjaDomain.Services\obj\Debug\NinjaDomain.Services.pdb
+F:\SandBox\PathToEntityFramework\GettingStartedWithEntityFramework6\NinjaModuleDemo\NinjaDomain.Services\obj\Debug\NinjaDomain.Services.csprojAssemblyReference.cache
